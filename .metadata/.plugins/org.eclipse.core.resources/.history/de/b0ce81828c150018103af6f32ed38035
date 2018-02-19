@@ -2,7 +2,7 @@
  * @type {String}
  * @properties={typeid:35,uuid:"114881B6-8203-460D-980D-380CA8199457"}
  */
-var crmURL = application.getServerURL()+'/servoy-service/rest_ws/svyTimesheetsAPI/';
+var crmURL = application.getServerURL+'/servoy-service/rest_ws/svyTimesheetsAPI/';
 
 /**
  * @type {Number}
