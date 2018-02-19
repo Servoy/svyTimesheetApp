@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/timesheet/budget",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"company_id",typeid:23,uuid:"556692FE-3239-4139-8E9C-90EECB8270AE"}
+],
+joinType:1,
+name:"companies_to_budgets",
+primaryDataSource:"db:/timesheet/company",
+typeid:22,
+uuid:"0A914824-BAA8-4BE3-94B1-F2645E6DCE0D"

@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"mem:timespent",
+items:[
+{foreignColumnName:"is_billable",primaryDataProviderID:"LITERAL:1",typeid:23,uuid:"11B8F852-BB33-4818-9236-C676F90740FD"},
+{foreignColumnName:"timesheet_id",primaryDataProviderID:"timesheet_id",typeid:23,uuid:"C5EB337D-ED39-4C8D-B62F-D68020C2174D"}
+],
+joinType:1,
+name:"timesheets_to_timespent",
+primaryDataSource:"mem:timesheet",
+typeid:22,
+uuid:"73956485-BC21-4B90-9B41-76C086F0049A"

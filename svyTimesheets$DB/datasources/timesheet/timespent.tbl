@@ -1,0 +1,15 @@
+dataSource:"db:/timesheet/timespent",
+items:[
+{
+dataProviderIDToAggregate:"hours",
+name:"hours_sum",
+type:4,
+typeid:40,
+uuid:"19CA8AAE-5D3E-4FFC-B1B8-1C66FE6559D5"
+}
+],
+onDeleteMethodID:"B7151737-7FCA-4E5A-86EB-42531DED5355",
+onInsertMethodID:"FD3CD815-5510-4E82-90F2-0B1D8472F001",
+onUpdateMethodID:"9137C05B-2185-4887-BEB9-A7D75B6318F9",
+typeid:39,
+uuid:"C3B38E9A-6F52-42EE-8880-CFA00E2B1F79"

@@ -1,0 +1,15 @@
+customProperties:"formComponent:false",
+dataSource:"db:/timesheet/timespent",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"17B3B619-861A-4C18-8EF6-F28AA86048C7"
+}
+],
+name:"timespent",
+showInMenu:true,
+typeid:3,
+uuid:"6624AEBA-B086-407A-9B6C-F3872947AB03"

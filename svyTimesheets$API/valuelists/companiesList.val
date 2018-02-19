@@ -1,0 +1,11 @@
+addEmptyValue:1,
+customProperties:"lazyLoading:false",
+dataProviderID1:"name",
+dataProviderID2:"company_id",
+dataSource:"mem:company",
+name:"companiesList",
+returnDataProviders:2,
+showDataProviders:1,
+typeid:34,
+uuid:"667B03FB-5B92-425C-82C7-8F20569734DE",
+valueListType:1

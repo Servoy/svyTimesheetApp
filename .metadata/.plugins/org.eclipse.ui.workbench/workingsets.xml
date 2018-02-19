@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1509540796722_1" label="Servoy Active Solution" name="Servoy Active Solution">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyTimesheets$DB" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyTimesheetsUtils" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resources" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyUtils" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1509540752517_0" label="Window Working Set" name="Aggregate for window 1509540752516">
+<workingSet IMemento.internal.id="Servoy Active Solution"/>
+</workingSet>
+</workingSetManager>

@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/timesheet/company",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"company_id",typeid:23,uuid:"58021CEF-E9B4-4295-9A2D-6312231ECB55"}
+],
+joinType:1,
+name:"timespent_to_companies",
+primaryDataSource:"db:/timesheet/timespent",
+typeid:22,
+uuid:"728856EE-E933-4480-91BF-4D852A59E93A"

@@ -1,0 +1,11 @@
+addEmptyValue:1,
+customProperties:"lazyLoading:false",
+dataProviderID1:"name",
+dataProviderID2:"company_id",
+dataSource:"db:/timesheet/company",
+name:"companiesList",
+returnDataProviders:2,
+showDataProviders:1,
+typeid:34,
+uuid:"1F567AB2-2490-46E7-AADC-40F1A6B33067",
+valueListType:1

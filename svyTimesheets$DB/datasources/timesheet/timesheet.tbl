@@ -1,0 +1,5 @@
+dataSource:"db:/timesheet/timesheet",
+onInsertMethodID:"2AB34EAE-ECFF-4E0F-ADB9-1E0968F32D05",
+onUpdateMethodID:"2AB34EAE-ECFF-4E0F-ADB9-1E0968F32D05",
+typeid:39,
+uuid:"8CD45886-34A1-4D47-8F36-53B8C6C0912B"

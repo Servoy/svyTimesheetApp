@@ -1,0 +1,5 @@
+dataSource:"db:/timesheet/timespent",
+onInsertMethodID:"7CADCBC5-0B03-4583-99B5-CCD21370CC28",
+onUpdateMethodID:"B1BE0291-DF33-4B78-9CD5-354764465B47",
+typeid:39,
+uuid:"81A5CEBF-40F2-4993-9E79-230D483B097E"

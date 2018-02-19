@@ -1,0 +1,354 @@
+* {
+	font-family: Helvetica;
+	outline: none;
+}
+body {
+	background-color: #f5f5f5;
+    position: relative;
+    height: 100%;
+}
+
+.container-fluid {
+	min-height: 600px;
+	background-color: #fff;
+	position: relative;
+}
+
+.container-fluid {
+	width: 700px !important;
+}
+
+/* top bar */
+.headerRow {
+	background-color: #ED7924;
+	color: #fff;
+}
+.headerColumn {
+	padding: 18px 15px 10px 15px; 
+}
+.headerTitle {
+	font-size: 20px;
+}
+
+/* end top bar */
+
+.subHeaderRow {
+	background-color: #F39754;
+	color: #fff;
+	font-size: 18px;
+	padding: 10px 15px 10px 0px; 
+}
+.subHeaderRowSubtitle {
+	background-color: #F39754;
+	color: #fff;
+	font-size: 18px;
+	padding: 8px 15px 2px 0px; 
+}
+.subHeaderRowInfo {
+	background-color: #F39754;
+	color: #fff;
+	font-size: 14px;
+	padding: 2px 15px 10px 0px; 
+	margin-bottom: 20px;
+}
+
+.headerBottom {
+	padding-bottom: 15px;
+}
+
+.logoutButton {
+	float: right;
+}
+
+.loginForm .rowField {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+.loginForm .firstField {
+	margin-top: 10px !important;
+} 
+.loginForm .rowOdd {
+	background-color: #efefef;
+}
+
+
+.yearSelectBox {
+	width: 85px;
+	margin-left: 10px;
+	display: inline-block;
+}
+
+
+.timesheetTableIcon {
+	font-size: 15px;
+	color: #CC681F;
+	cursor: pointer;
+}
+.timesheetTableIcon:hover {
+	color: #989898;
+}
+
+.addButton {
+	position: fixed !important;
+  	right: 29px;
+  	bottom: 50px;
+  	color: #FFF !important;
+  	background-color: #ED7924 !important;
+  	box-shadow: 3px 3px 3px #888888;
+  	font-size: 40px;
+  	border-radius: 50%;
+  	border: 1px solid #d3dae5;
+  	outline:none;
+}
+.addButton:hover {
+	color: #ED7924 !important;
+  	background-color: #FFF !important;
+  	outline:none;
+}
+.addButton:focus {
+	outline:0px !important;
+}
+
+.header2Column {
+	padding: 10px 15px 10px 15px; 
+	background-color: #ED7924;
+	color: #fff;
+	font-size: 18px;
+}
+
+.header2Week {
+	margin-left: 40px;
+}
+
+.barButton {
+	color: #fff;
+	cursor: pointer;
+}
+.barButton:hover {
+	color: #eaf0f9
+}
+
+.barButtonSave {
+	font-size: 17px;
+}
+
+.selectTimesheetRow {
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+.selectYearTimesheet {
+	width: 60px;
+	display: inline-block;
+}
+.selectWeekTimesheet {
+	width: 80px;
+	display: inline-block;
+}
+
+.workDayTitleRow {
+	margin-top:0px !important;
+}
+.workDayTitle {
+	font-size: 18px;
+	color: #555050;
+} 
+.workDayTableHeader {
+	font-size: 13px;
+	color: #c1bfbf !important;
+	font-weight: normal;
+	text-align: left;
+}
+.workDayBillableTableHeader {
+
+}
+
+.timesheetPage .tablewrapper {
+	margin-bottom: 20px;
+}
+.timesheetPage .table {
+	padding-bottom: 0px;
+}
+.timesheetPage .table > thead > tr > th {
+	padding: 0px !important;
+}
+
+.table-servoyextra-header-label {
+	margin-left: 7px;
+}
+
+td.fa {
+    display: table-cell;
+}
+
+.textNoHoursRow {
+	margin-top: 20px;
+}
+
+.submitButtonRow {
+	margin-top: 10px;
+	margin-bottom: 20px;	
+}
+
+.btn.primary {
+	color: #FFF !important;
+  	background-color: #ED7924 !important;
+}
+.btn.primary:hover {
+	color: #ED7924 !important;
+  	background-color: #FFF !important;
+  	outline:none;
+}
+
+.inputHours {
+	width: 62px;
+}
+
+.messageNoteRow {
+	margin-top: 15px;
+}
+
+.workDayForm .rowField {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+.workDayForm .firstField {
+	margin-top: 10px !important;
+} 
+.rowOdd {
+	background-color: #efefef;
+}
+.checkbox {
+	padding: 0px !important;
+	margin: 0px !important;
+}
+
+.sideBarColumn {
+	position: absolute !important;
+  	right: 0px;
+  	top: 0px;
+  	background-color: #ED7924;
+  	margin-right: 0px;
+  	/*border: 1px solid #a8a8a8;*/
+}
+.svy-sidenav {
+	border: 1px solid #afafaf !important;
+}
+.svy-sidenav-action-open {
+	border: 0px !important;
+}
+.svy-sidenav-header {
+	background-color: #ED7924;
+}
+.svy-sidenav-menu {
+	background-color: #ED7924 !important;
+}
+.svy-navitem-selected {
+    color: #ED7924;
+}
+.svy-sidenav-item {
+	color: #fff !important;
+}
+.sideBarColumn .fa {
+	color: #fff !important;
+}
+.svy-slide-out .svy-sidenav-action-open  {
+	border: 0px;
+}
+.svy-sidenav .fa {
+	font-size: 25px;
+	padding: 15px;
+	/*padding: 0px 10px 15px 0px;*/
+
+}
+
+.svy-sidenav .svy-sidenav-item-icon .fa {
+	padding: 0px 10px 15px 0px !important;
+}
+
+.table-servoyextra-selected {
+	background-color: #dedede;
+}
+
+.createTimesheetLabel {
+	width: 40px !important;
+	display: inline-block;
+}
+.specificInput {
+	width: 70px;
+}
+.createTimesheetButton {
+	width: 150px;
+	margin-top : 10px;
+}
+
+.fa.fa-eur {
+	color: #333;
+}
+.fa.fa-eur.disabled {
+	color: #cccccc;
+}
+
+.type-info .modal-header{
+	background-color: #ED7924;
+}
+.btn-primary, .btn-primary:visited, .btn-primary:active {
+	background-color: #ED7924 !important;
+	border-color: #ED7924 !important;
+}
+ .btn-primary:hover {
+	color: #ED7924 !important;
+  	background-color: #FFF !important;
+  	outline:none;
+}
+.statusColumn {
+	min-width: 120px !important;
+}
+
+@media screen and (max-width: 1433px) {
+	.container-fluid {
+		width: auto !important;
+	}
+	
+	.selectYear {
+		width: auto !important;
+	}
+}
+
+@media all
+and (max-device-width : 667px) 
+and (orientation : portrait) {
+	.timesheetPage .tablewrapper thead th:nth-child(2), .timesheetPage .tablewrapper thead th:nth-child(5) {
+		display: none !important;
+	}
+
+	.timesheetPage .c1, .timesheetPage .c4 {
+		display: none !important;
+	}
+	.timesheetPage .c0 {
+		min-width: 100% !important;
+		max-width: 100% !important;
+		width: 100% !important;
+	}
+}
+
+@media all
+and (max-device-width : 667px) 
+and (orientation : landscape) {
+	 .timesheetPage .tablewrapper thead th:nth-child(1), .timesheetPage .tablewrapper thead th:nth-child(2){
+	 	min-width: 120px !important;
+		max-width: 120px !important;
+		width: 120px !important;
+	 }
+	 .timesheetPage .c0, .timesheetPage .c1 {
+		min-width: 120px !important;
+		max-width: 120px !important;
+		width: 120px !important;
+	}
+	
+	.timesheetPage .c4 {
+		min-width: 160px !important;
+		max-width: 160px !important;
+		width: 160px !important;
+	}
+}
+

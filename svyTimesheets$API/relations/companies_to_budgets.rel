@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"mem:budget",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"company_id",typeid:23,uuid:"7BB030C5-16CE-49D4-BD3C-18D905E9576B"}
+],
+joinType:1,
+name:"companies_to_budgets",
+primaryDataSource:"mem:company",
+typeid:22,
+uuid:"2A5F1ABB-67EA-4629-A551-CC59AD23143A"

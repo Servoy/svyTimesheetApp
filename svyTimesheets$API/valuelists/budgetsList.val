@@ -1,0 +1,10 @@
+addEmptyValue:1,
+dataProviderID1:"name",
+dataProviderID2:"budget_id",
+name:"budgetsList",
+relationName:"companies_to_budgets",
+returnDataProviders:2,
+showDataProviders:1,
+typeid:34,
+uuid:"613CFD95-7E4F-4F05-B16D-9409C874E23D",
+valueListType:1

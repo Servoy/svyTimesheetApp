@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="2" key="SolutionExplorerView.orientation"/>
+	<item value="500" key="SolutionExplorerView.ratio512"/>
+	<item value="true" key="SolutionExplorerView.useOpenAsDefaultAction"/>
+	<item value="false" key="SolutionExplorerView.includeEntriedFromModules"/>
+	<item value="com.servoy.eclipse.ui.StartNGClient" key="lastDebugCommandId"/>
+	<section name="serclipseDialogs">
+		<section name="SynchronizeDBIWithDBWizard">
+			<item value="673" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="430" key="DIALOG_HEIGHT"/>
+			<item value="295" key="DIALOG_X_ORIGIN"/>
+			<item value="113" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

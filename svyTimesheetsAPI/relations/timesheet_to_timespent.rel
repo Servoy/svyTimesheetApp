@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/timesheet/timespent",
+items:[
+{foreignColumnName:"timesheet_id",primaryDataProviderID:"timesheet_id",typeid:23,uuid:"67C649CE-6DBC-4F07-AFB8-4C4A8977F71E"}
+],
+joinType:1,
+name:"timesheet_to_timespent",
+primaryDataSource:"db:/timesheet/timesheet",
+typeid:22,
+uuid:"24C4D65B-D2E4-447A-BA04-4BDC66C626E9"
